@@ -165,6 +165,11 @@
             "voice": "SoundCloud play *query",
             "description": "Play a song on SoundCloud."
         },
+        "happy": {
+            "text": " happy",
+            "voice": "(Make me happy) (I'm sad)",
+            "description": "test"
+        },
         "sc_pause": {
             "text": "SoundCloud pause/stop",
             "voice": "SoundCloud (pause)(post)(stop)(stock)",
@@ -185,6 +190,7 @@
             "voice": "(turn) (the) :state (the) light(s) *action",
             "description": "Control color and brightness of lights."
         },
+       
         "show_remoteQR":{
             "text": "Show Remote Link",
             "voice": "Show remote (QR code) (QR) (link)",
