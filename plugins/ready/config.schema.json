@@ -1,0 +1,10 @@
+{
+    "schema": {
+        "youtube": {
+            "type": "object",
+            "title":"Lets get ready",
+            "properties": {
+            }
+        }
+    }
+}
