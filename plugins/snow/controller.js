@@ -1,8 +1,9 @@
-function snow($scope, $http, SpeechService, Focus) {
+function snow_storm($scope, $http, SpeechService, Focus) {
 
     //start snow
     SpeechService.addCommand('snow_storm', function (state, action) {
-      snowStorm.toggle();
+      $scope.showSnow = true | false
+
     });
 
 }
