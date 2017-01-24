@@ -1,0 +1,22 @@
+{
+    "schema": {
+        "youtube": {
+            "type": "object",
+            "title":"Make me Happy",
+            "properties": {
+                "key": {
+                    "type": "string",
+                    "title": "URL for slide show"
+                }
+            }
+        }
+    },
+    "form": [
+        {
+            "type": "fieldset",
+            "key": "slideshow",
+            "expandable": true,
+            "order":0
+        }
+    ]
+}

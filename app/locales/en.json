@@ -195,6 +195,18 @@
             "text": "Show Remote Link",
             "voice": "Show remote (QR code) (QR) (link)",
             "description": "Show the local IP of the Remote App URL"
+        
+        },
+         
+        "get_ready":{
+            "text": "Let's get ready",
+            "voice": "(Lets get ready)(Let's get ready)",
+            "description": "focus on you"
+        },
+        "snow_storm":{
+            "text": "Let it snow",
+            "voice": "Let it snow",
+            "description": "Let it snow"
         }
     }
 }
